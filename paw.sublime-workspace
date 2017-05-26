@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"namas",
+				"ncurses_assume_default_colors"
+			],
+			[
+				"sup",
+				"suplier"
+			],
+			[
+				"tglse",
+				"tglsew_tgl"
+			],
+			[
+				"tgls",
+				"tglsew_thn"
+			],
+			[
+				"tgl",
+				"tglsew"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"tamp",
+				"tampiltotal"
+			],
+			[
+				"har",
+				"harga"
+			],
+			[
+				"kond",
+				"Kondisi"
+			],
+			[
+				"thn_",
+				"thn_ajar"
+			],
+			[
+				"eo",
+				"EOD"
+			],
+			[
+				"ca",
+				"calon"
+			],
+			[
+				"wid",
+				"widgets"
+			],
+			[
+				"nilai",
+				"nilai_mtk"
+			],
+			[
+				"nila",
+				"nilai_ipa"
+			],
+			[
+				"f",
+				"foreach\tforeach …"
+			],
+			[
+				"and",
+				"AND"
+			],
+			[
+				"thn",
+				"thnId"
+			],
+			[
+				"tanggal",
+				"tanggal_lahir"
+			],
+			[
+				"hasil",
+				"hasilfx1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pertemuan-11/barang_tersedia.php",
+			"settings":
+			{
+				"buffer_size": 1133,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pertemuan-11/barang_belanja.php",
+			"settings":
+			{
+				"buffer_size": 1132,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pertemuan-11/barang_beli.php",
+			"settings":
+			{
+				"buffer_size": 486,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<h2>DATA PEMBELI BARANG</h2>"
+			}
+		},
+		{
+			"file": "pertemuan-11/koneksi.php",
+			"settings":
+			{
+				"buffer_size": 1438,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pertemuan-11/simpan_beli.php",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/paw",
+		"/C/xampp/htdocs/paw/pertemuan-11"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/paw/pertemuan-10/buku_tampil.php",
+		"/C/xampp/htdocs/paw/pertemuan-10/buku_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-10/buku_edit.php",
+		"/C/xampp/htdocs/paw/pertemuan-10/buku_hapus.php",
+		"/C/xampp/htdocs/paw/pertemuan-10/barang_edit.php",
+		"/C/xampp/htdocs/paw/pertemuan-10/barang_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-10/barang_hapus.php",
+		"/C/Users/nucwo/Documents/halteTransJogja/www/index.html",
+		"/C/xampp/htdocs/paw/pertemuan-10/buku_info.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/buku_isi.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/buku_tampil.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/buku_info.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/buku_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/barang_cari.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/buku_cari.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/buku_cari_suplier.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/barang_tampil.php",
+		"/C/xampp/htdocs/paw/pertemuan-9/barang_simpan.php",
+		"/C/xampp/htdocs/metodenewton/proses.php",
+		"/C/xampp/htdocs/metodenewton/index.php",
+		"/C/xampp/htdocs/sipas.sql",
+		"/C/xampp/htdocs/paw/pertemuan-8/buku_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-8/barang_isi.php",
+		"/C/xampp/htdocs/paw/pertemuan-8/koneksi-buku.php",
+		"/C/xampp/htdocs/paw/pertemuan-8/buku_isi.php",
+		"/C/xampp/htdocs/paw/pertemuan-8/barang_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-7/buku_sewa.php",
+		"/C/xampp/htdocs/paw/pertemuan-7/buku_sewa_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-7/penyewa.php",
+		"/C/xampp/htdocs/paw/pertemuan-7/penyewa_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-7/buku_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-5/settanggal.php",
+		"/C/xampp/htdocs/paw/pertemuan-5/formtanggal.php",
+		"/C/xampp/htdocs/pinjambarang/tahap_3-20170403/proyek_peminjaman_barang.sql",
+		"/C/xampp/htdocs/pinjambarang/tahap_1-20170321/proyek_peminjaman_barang.sql",
+		"/C/xampp/htdocs/paw/pertemuan-6/buku_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-6/buku_isi.php",
+		"/C/xampp/htdocs/paw/pertemuan-6/barang_isi.php",
+		"/C/xampp/htdocs/paw/pertemuan-6/barang_simpan.php",
+		"/C/xampp/htdocs/paw/pertemuan-6/koneksi.php",
+		"/C/xampp/htdocs/paw/form-barang.php",
+		"/C/xampp/htdocs/paw/proses-barang.php",
+		"/C/xampp/htdocs/pinjambarang/proses-tambah-ref-kondisi.php",
+		"/C/xampp/htdocs/pinjambarang/proses-tambah-barang.php",
+		"/C/xampp/htdocs/pinjambarang/tambah-barang.php",
+		"/C/xampp/htdocs/pinjambarang/tambah-ref-kondisi.php",
+		"/C/xampp/htdocs/pinjambarang/data-barang.php",
+		"/C/xampp/htdocs/pinjambarang/data-ref-kondisi.php",
+		"/D/AndroidProject/Layout/app/src/main/res/values/dimens.xml",
+		"/C/xampp/htdocs/pinjambarang/index.php",
+		"/C/xampp/htdocs/paw/tugas_i-kerucut.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/ranking.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/cetak.php",
+		"/C/xampp/htdocs/psb/protected/models/Calon.php",
+		"/C/xampp/htdocs/psb/protected/views/user/admin.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/admin.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/_form.php",
+		"/C/xampp/htdocs/psb/protected/controllers/CalonController.php",
+		"/C/xampp/htdocs/psb/protected/controllers/SiteController.php",
+		"/C/xampp/htdocs/psb/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/psb/protected/views/site/index.php",
+		"/C/xampp/htdocs/psb/protected/views/site/pages/aturan.php",
+		"/C/xampp/htdocs/psb/protected/views/layouts/column2.php",
+		"/C/Users/nucwo/Downloads/direktoratsumberdayamanusia.wordpress.2016-11-17.xml",
+		"/C/xampp/htdocs/psb/protected/views/calon/_view.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/view.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/update.php",
+		"/C/xampp/htdocs/psb/protected/views/site/pages/about.php",
+		"/C/xampp/htdocs/psb/protected/views/site/contact.php",
+		"/C/xampp/htdocs/psb/protected/views/site/gantiPassword.php",
+		"/C/xampp/htdocs/psb/protected/views/site/error.php",
+		"/C/xampp/htdocs/psb/protected/components/Komponen.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/_formVerifikasi.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/create.php",
+		"/C/xampp/htdocs/psb/protected/extensions/tcpdf/config/tcpdf_config.php",
+		"/C/xampp/htdocs/psb/protected/views/user.php",
+		"/C/xampp/htdocs/psb/protected/controllers/UserController.php",
+		"/C/xampp/htdocs/psb/protected/models/User.php",
+		"/C/xampp/htdocs/psb/protected/views/calon/_form.php.bak",
+		"/C/xampp/htdocs/psb/protected/views/calon/index.php",
+		"/C/xampp/htdocs/aplikasiweb/proses-if.php",
+		"/C/xampp/htdocs/aplikasiweb/proses-switch.php",
+		"/C/xampp/htdocs/aplikasiweb/form.html",
+		"/C/xampp/htdocs/aplikasiweb/proses.php",
+		"/C/xampp/htdocs/aplikasiweb/form.php",
+		"/C/xampp/htdocs/php-math-parser/test-math.php",
+		"/C/xampp/htdocs/php-math-parser/tes.php",
+		"/C/xampp/htdocs/metodesecant/index.php",
+		"/C/xampp/htdocs/psb/protected/views/thnAjar/_view.php",
+		"/C/xampp/htdocs/psb/protected/views/thnAjar/_form.php",
+		"/D/Dropbox/Kuliah/Akakom/Mata Kuliah/Proyek Pengembangan Web/langkah-langkah.txt",
+		"/C/xampp/htdocs/psb/protected/views/thnAjar/index.php",
+		"/C/xampp/htdocs/psb/protected/models/ThnAjar.php",
+		"/C/xampp/htdocs/yii-1.1.16.bca042/yii_framework/web/form/CFormInputElement.php",
+		"/C/xampp/htdocs/yii-1.1.16.bca042/yii_framework/web/form/CFormElementCollection.php",
+		"/C/xampp/htdocs/yii-1.1.16.bca042/yii_framework/web/form/CFormStringElement.php",
+		"/C/xampp/htdocs/yii-1.1.16.bca042/yii_framework/web/form/CForm.php",
+		"/C/xampp/htdocs/yii-1.1.16.bca042/yii_framework/web/form/CFormElement.php",
+		"/C/xampp/htdocs/yii-1.1.16.bca042/yii_framework/cli/views/webapp/protected/extensions/bootstrap/views/fileupload/form.php",
+		"/C/xampp/htdocs/psb/protected/views/user/_form.php",
+		"/C/xampp/htdocs/psb/protected/views/layouts/column1.php",
+		"/C/xampp/htdocs/psb/protected/views/thnAjar/admin.php",
+		"/C/xampp/htdocs/psb/protected/config/main.php",
+		"/C/xampp/htdocs/psb/protected/models/ContactForm.php",
+		"/D/Documents/Pelatihan Pembuatan Video Dokumenter/penulisan naskah dokumenter",
+		"/D/Documents/Pelatihan Pembuatan Video Dokumenter/videografi",
+		"/D/Documents/Pelatihan Pembuatan Video Dokumenter/voice over",
+		"/D/Documents/Pelatihan Pembuatan Video Dokumenter/adobe premier",
+		"/C/xampp/htdocs/yii/protected/config/main.php",
+		"/D/Dropbox/Akun pribadi.txt",
+		"/D/Dropbox/Akun pribadi (Salinan berkonflik A455LNA 2016-07-15).txt",
+		"/C/xampp/htdocs/yii/protected/views/user/hello.php",
+		"/C/xampp/htdocs/yii/protected/controllers/UserController.php",
+		"/C/xampp/htdocs/yii/protected/views/user/_form.php",
+		"/C/xampp/htdocs/yii/protected/models/User.php",
+		"/C/xampp/htdocs/yii/protected/views/user/create.php",
+		"/C/xampp/htdocs/yii/protected/config/database.php",
+		"/C/xampp/htdocs/yii/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/metodesecant/proses.php",
+		"/C/xampp/htdocs/metodesecant/matheval.class.php",
+		"/C/xampp/htdocs/metodenewton/evalmath.class.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"foto",
+			"stok",
+			"harga",
+			"nama",
+			"barang_",
+			"barang_tampil",
+			"barang",
+			"data",
+			"row",
+			"barang",
+			"idbarang",
+			"idBarang",
+			"idbarang",
+			",",
+			"idBarang",
+			"kode",
+			"suplier",
+			"input",
+			"$row",
+			"idbarang",
+			"</a>",
+			"idbarang",
+			"barang_",
+			"barang",
+			"barang_edit",
+			"judul_buku",
+			"Pengarang",
+			"POST",
+			"idbuku",
+			"judul_buku",
+			"Judul",
+			"Nama",
+			"Barang",
+			"BARANG",
+			"barang",
+			"Penerbit",
+			"penerbit",
+			"suplier",
+			"penerbit",
+			"supplier",
+			"nama",
+			" buku",
+			"barang",
+			"BARANG",
+			"barang",
+			"BARANG",
+			"nama_barang",
+			"<td>:</td>",
+			"w_dst",
+			"<td>:</td>",
+			"kodesew",
+			"tglsew",
+			"kode",
+			"tglsew_",
+			"stok",
+			"tglsew_",
+			"penerbit",
+			"kode",
+			"hari",
+			"sew",
+			"name",
+			"tglsew",
+			"<td>:</td>",
+			",",
+			"$",
+			"=",
+			"$",
+			"<td>",
+			"Nama Barang",
+			":",
+			"$",
+			"=",
+			"$stok",
+			"hari",
+			"Harga",
+			"merk",
+			"nomor_seri",
+			"jenis",
+			"name",
+			"angka_hari",
+			"<option",
+			"brg_no_invent",
+			"class",
+			"h2",
+			"layout",
+			"h2",
+			"form",
+			"form.",
+			"p",
+			"h2",
+			"_form",
+			"update",
+			"cetak",
+			"render",
+			"2",
+			"colspan",
+			"2",
+			" colspan=\"2\"",
+			"jenisKelamin",
+			"<td>",
+			"nilai",
+			"nama",
+			"total",
+			"query",
+			"user_id",
+			"user_",
+			"user",
+			"this",
+			"tanggal_lahir",
+			"tgl_lahir",
+			"password",
+			"tanggal_lahir",
+			"$pass",
+			"pass",
+			"save",
+			"form",
+			"action",
+			"span5",
+			"<",
+			"case",
+			"} ",
+			") {",
+			"elseif ($nilai >=",
+			"uts",
+			"nilai",
+			"textField",
+			"tg_lhr",
+			"function get_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pertemuan-11/barang_tersedia.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pertemuan-11/barang_belanja.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pertemuan-11/barang_beli.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<h2>DATA PEMBELI BARANG</h2>",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pertemuan-11/koneksi.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								847,
+								847
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 318.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pertemuan-11/simpan_beli.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.904255319149,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "paw.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
