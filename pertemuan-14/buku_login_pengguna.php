@@ -1,3 +1,4 @@
+<?php include_once('template_atas_buku.php') ?>
 <h2>LOGIN</h2>
 <form method="post" action="buku_login_proses.php">
 	<table border="0">
@@ -14,3 +15,4 @@
 		</tr>
 	</table>	
 </form>
+<?php include_once('template_bawah_buku.php') ?>

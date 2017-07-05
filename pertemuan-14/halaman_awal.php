@@ -1,3 +1,4 @@
+<?php include_once('template_atas.php') ?>
 <?php
 	session_start();
 	if(!isset($_SESSION["user"])){
@@ -16,3 +17,4 @@
 	<a href="halaman2.php">Halaman 2</a><br />
 	<a href="logout.php">Logout</a><br />
 </div>
+<?php include_once('template_bawah.php') ?>

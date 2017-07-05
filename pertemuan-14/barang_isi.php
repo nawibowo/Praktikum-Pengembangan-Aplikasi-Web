@@ -1,3 +1,4 @@
+<?php include_once('template_atas.php') ?>
 <h2>.:: ISI BARANG ::.</h2>
 <form action="barang_simpan.php" method="POST" enctype="multipart/form-data">
 	<table>
@@ -25,3 +26,4 @@
 		</tr>
 	</table>
 </form>
+<?php include_once('template_bawah.php') ?>

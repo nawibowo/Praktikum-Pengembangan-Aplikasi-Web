@@ -1,3 +1,4 @@
+<?php include_once('template_atas_buku.php') ?>
 <?php
 	include "koneksi-buku.php";
 	$judul_buku ="";
@@ -50,3 +51,4 @@
 		}
 	?>
 </table>
+<?php include_once('template_bawah_buku.php') ?>

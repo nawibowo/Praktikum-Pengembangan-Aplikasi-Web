@@ -1,3 +1,4 @@
+<?php include_once('template_atas_buku.php') ?>
 <?php
 	$kode ="";
 	if(isset($_GET["kode"]))
@@ -42,5 +43,5 @@
 			echo" </tr>";
 	?>
 </table>
-
+<?php include_once('template_bawah_buku.php') ?>
 <!-- tugas di bagian modul, tambah tombol cari supplier dan kolom supplier -->

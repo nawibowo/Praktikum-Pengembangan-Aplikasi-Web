@@ -1,6 +1,7 @@
+<?php include_once('template_atas_buku.php') ?>
 <div>
 	<?php
-		session_start();
+		// session_start();
 		echo "SELAMAT DATANG <br />";
 		echo "USER :".$_SESSION["user"]."<br />" ;
 		echo "NAMA :".$_SESSION["nama_lengkap"]."<br />";
@@ -41,3 +42,4 @@
 		</table>
 	</form>
 </div>
+<?php include_once('template_bawah_buku.php') ?>

@@ -1,3 +1,4 @@
+<?php include_once('template_atas.php') ?>
 <?php
     $idbarang = $_GET["idbarang"];
     include "koneksi.php";
@@ -43,3 +44,4 @@
         </tr>
     </table>
 </form>
+<?php include_once('template_bawah.php') ?>

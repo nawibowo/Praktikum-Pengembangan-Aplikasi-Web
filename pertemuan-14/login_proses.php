@@ -31,8 +31,10 @@
 		$_SESSION["akses"]			= $row["akses"];
 		header("Location: halaman_awal.php");
 	} else {
+		include_once('template_atas.php');
 		echo "User atau Password Salah! <br />";
 		echo "<input type='button' value='Kembali'
 					onClick='self.history.back()' />";
+		include_once('template_bawah.php');
 	}
 ?>

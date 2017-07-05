@@ -1,3 +1,4 @@
+<?php include_once('template_atas.php') ?>
 <?php
 if (isset($_POST['idbarang'])) {
 	$idbarang = $_POST['idbarang'];
@@ -140,3 +141,4 @@ $img_dst = imagecreatetruecolor($w_dst, $h_dst); //resample
 ?>
 <hr>
 <a href="barang_tampil.php">DAFTAR BARANG</a>
+<?php include_once('template_bawah.php') ?>

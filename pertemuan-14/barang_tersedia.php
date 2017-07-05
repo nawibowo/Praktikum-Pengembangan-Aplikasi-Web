@@ -1,3 +1,4 @@
+<?php include_once('template_atas.php') ?>
 <?php
 	$barang_pilih = 0;
 	if(isset($_COOKIE['keranjang'])){
@@ -42,3 +43,4 @@
 		}
 	?>
 </table>
+<?php include_once('template_bawah.php') ?>

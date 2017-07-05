@@ -1,5 +1,6 @@
+<?php include_once('template_atas_buku.php') ?>
 <?php 
-	session_start();
+	// session_start();
 	$pengguna	= $_POST['pengguna'];
 	$kata_kunci	= md5($_POST['kata_kunci']);
 
@@ -36,3 +37,4 @@
 					onClick='self.history.back()' />";
 	}
 ?>
+<?php include_once('template_bawah_buku.php') ?>

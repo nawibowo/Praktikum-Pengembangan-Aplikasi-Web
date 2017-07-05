@@ -1,3 +1,4 @@
+<?php include_once('template_atas_buku.php') ?>
 <h2>SEWA BUKU</h2>
 <hr>
 <form action="buku_sewa_simpan.php" method="POST">
@@ -81,3 +82,4 @@
 <input type="submit" value="Simpan" name="proses">
 <input type="reset" value="Reset" name="reset">
 </form>
+<?php include_once('template_bawah_buku.php') ?>

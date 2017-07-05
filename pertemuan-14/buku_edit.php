@@ -1,3 +1,4 @@
+<?php include_once('template_atas_buku.php') ?>
 <?php
 	$idbuku = $_GET["idbuku"];
 	include "koneksi-buku.php";
@@ -57,3 +58,4 @@
 <input type="submit" value="Simpan" name="proses">
 <input type="reset" value="Reset" name="reset">
 </form>
+<?php include_once('template_bawah_buku.php') ?>

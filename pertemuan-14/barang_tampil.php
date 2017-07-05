@@ -1,3 +1,4 @@
+<?php include_once('template_atas.php') ?>
 <?php
 	$nama_barang ="";
 	if(isset($_POST["nama_barang"]))
@@ -39,3 +40,4 @@
 		}
 	?>
 </table>
+<?php include_once('template_bawah.php') ?>

@@ -1,3 +1,4 @@
+<?php include_once('template_atas_buku.php') ?>
 <h2>DATA PEMINJAMAN BUKU</h2>
 <form action='simpan_pinjam.php' method="POST">
 <table border="0">
@@ -26,3 +27,5 @@
 <?php
 include_once("buku_keranjang.php")
 ?>
+
+<?php include_once('template_bawah_buku.php') ?>

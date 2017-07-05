@@ -1,3 +1,4 @@
+<?php include_once('template_atas.php') ?>
 <h2>DATA PEMBELI BARANG</h2>
 <form action='simpan_beli.php' method="POST">
 <table border="0">
@@ -22,3 +23,4 @@
 <?php
 	include_once("barang_belanja.php")
 ?>
+<?php include_once('template_bawah.php') ?>

@@ -1,5 +1,6 @@
+<?php include_once('template_atas_buku.php') ?>
 <?php
-	session_start();
+	// session_start();
 	if(!isset($_SESSION["user"])){
 		echo "Sesi Sudah Habis! <br />
 			<a href='buku_login_pengguna.php'>LOGIN GAGAL</a> ";
@@ -35,3 +36,4 @@
 		</tbody>
 	</table>
 </div>
+<?php include_once('template_bawah_buku.php') ?>
